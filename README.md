@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi all 👋
+-🔭 I’m developing code to do materials science.
 
 <!--
 **JaGeo/JaGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
