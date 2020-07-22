@@ -1,5 +1,6 @@
 ### Hi all 👋
--🔭 I’m developing code to do materials science.
+I am a postdoctoral researcher at the Unversité catholique de Louvain in Louvain-la-Neuve, Belgium. 
+I am developing code to do materials science.
 
 <!--
 **JaGeo/JaGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
