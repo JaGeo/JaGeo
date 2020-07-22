@@ -8,6 +8,8 @@
 
 :page_with_curl: You can find a list of my publications [here](https://scholar.google.de/citations?user=bggcIYEAAAAJ&hl=en).
 
+:computer: My [website](https://jageo.github.io/) contains more info.
+
 <!--
 **JaGeo/JaGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
