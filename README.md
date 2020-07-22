@@ -1,6 +1,12 @@
-### Hi all 👋
-I am a postdoctoral researcher at the Unversité catholique de Louvain in Louvain-la-Neuve, Belgium. 
-I am developing code to do materials science.
+### I'm Janine 👋
+
+:woman_scientist: I am a postdoctoral researcher at [Unversité catholique de Louvain](https://uclouvain.be/en/index.html) and I develope code to do materials science.
+
+:woman_technologist: For example, I have contributed to [pymatgen](https://github.com/materialsproject/pymatgen/), [custodian](https://github.com/materialsproject/custodian/), and [atomate](https://github.com/hackingmaterials/atomate/).
+
+:page_with_curl: You can find a list of my publications [here](https://scholar.google.de/citations?user=bggcIYEAAAAJ&hl=en).
+
+😄 My pronouns are she/her.
 
 <!--
 **JaGeo/JaGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
