@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:woman_scientist: I am a postdoctoral researcher at [Unversité catholique de Louvain](https://uclouvain.be/en/index.html) and I develope code to do materials science.
+:woman_scientist: I am a postdoctoral researcher at [Unversité catholique de Louvain](https://uclouvain.be/en/index.html) and I develop code to do materials science.
 
 :atom_symbol: I am searching for new materials with desired properties for thermoelectric materials, solar cells and batteries. I aim at understanding materials properties with the help of [bonding analysis](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcc.26353) ([:lobster:](http://www.cohp.de/)) and [coordination environments](https://chemrxiv.org/articles/ChemEnv_A_Fast_and_Robust_Coordination_Environment_Identification_Tool/11294480). For example, I have recently assessed the [predictive power of the Pauling rules](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202000829).
 
