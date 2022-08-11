@@ -10,6 +10,10 @@
 
 :computer: My [website](https://jageo.github.io/) contains more info. And, you can find me on [Twitter](https://twitter.com/MolecularXtal).
 
+:fire: My Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jageo&show_icons=true&theme=radical)
+
 <!--
 **JaGeo/JaGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
