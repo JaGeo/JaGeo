@@ -8,7 +8,7 @@
 
 :page_with_curl: You can find a list of my publications [here](https://scholar.google.de/citations?user=bggcIYEAAAAJ&hl=en).
 
-:computer: My [website](https://jageo.github.io/) contains more info. And, you can find me on [Mastodon](https://mastodon.social/@MolecularXtal) , [Twitter](https://twitter.com/MolecularXtal) and [LinkedIn](www.linkedin.com/in/janine-george-5b9027156)
+:computer: My [website](https://jageo.github.io/) contains more info. And, you can find me on [Mastodon](https://mastodon.social/@MolecularXtal), [Twitter](https://twitter.com/MolecularXtal) and [LinkedIn](www.linkedin.com/in/janine-george-5b9027156)
 
 :fire: My Stats: 
 
