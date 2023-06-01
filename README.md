@@ -12,7 +12,7 @@
 
 :fire: My Stats: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jageo&show_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Jageo?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
 **JaGeo/JaGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
