@@ -14,6 +14,10 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Jageo?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=jageo&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=320" />
+</a>
+
 <!--
 **JaGeo/JaGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
